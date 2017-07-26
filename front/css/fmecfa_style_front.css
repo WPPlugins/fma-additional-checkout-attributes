@@ -1,0 +1,16 @@
+.full
+{
+    width: 97% !important;
+    float: left;
+    margin-right: 3% !important;
+}
+.half
+{
+    width: 47% !important;
+    margin-right: 3% !important;
+    float: left;
+}
+.fme_additional_checkout_field
+{
+	width: 100%;
+}
